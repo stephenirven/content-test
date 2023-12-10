@@ -1,3 +1,5 @@
 file contents
 second line
-Tihs was edited in branch
+This was edited in branch
+
+This was added in branch later
